@@ -290,7 +290,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button {border-style: 2px solid blue;}"
+      "button {border-style: 2px solid blue;}"
     ]
   }
 }
