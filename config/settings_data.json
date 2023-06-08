@@ -290,7 +290,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button button--secondary {border-color: #e9e647;}"
+      ".button button--secondary {border-color: rgb(230,71,233);}"
     ]
   }
 }
