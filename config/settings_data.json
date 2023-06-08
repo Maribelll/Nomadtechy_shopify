@@ -10,7 +10,7 @@
     "colors_outline_button_labels": "{{ shop.brand.colors.primary[0].background }}",
     "colors_background_1": "#FFFFFF",
     "gradient_background_1": "",
-    "colors_background_2": "#eff9a6",
+    "colors_background_2": "#f5f5f5",
     "gradient_background_2": "",
     "type_header_font": "nunito_n4",
     "heading_scale": 105,
