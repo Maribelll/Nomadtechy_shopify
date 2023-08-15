@@ -40,6 +40,111 @@
         "show_text_below": false
       }
     },
+    "07c34c1c-48c5-40aa-b921-29ee8acee8a9": {
+      "type": "collage",
+      "blocks": {
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-image-1": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-image-1",
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-product-1",
+        "template--18824843264286__07c34c1c-48c5-40aa-b921-29ee8acee8a9-collection-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d7434610-17d8-42d7-a403-66e9b1cc4a9c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>Starlink<br\/>Accessories<\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1d333136-520f-43b0-a42c-488d2ca3210f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-2",
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-1",
+        "template--18824843264286__d7434610-17d8-42d7-a403-66e9b1cc4a9c-column-3",
+        "1d333136-520f-43b0-a42c-488d2ca3210f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -70,6 +175,8 @@
   },
   "order": [
     "image_banner",
+    "07c34c1c-48c5-40aa-b921-29ee8acee8a9",
+    "d7434610-17d8-42d7-a403-66e9b1cc4a9c",
     "featured_collection"
   ]
 }
