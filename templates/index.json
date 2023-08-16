@@ -250,7 +250,7 @@
         "2db73c91-b420-491d-9c1f-566cb2fb0a44"
       ],
       "custom_css": [
-        ".multicolumn color-background-2 gradient background-primary{margin-top:-1px;}",
+        ".multicolumn{margin-top: -1px;}",
         ".multicolumn-card {width: 413px;}",
         ".multicolumn-card-spacing {padding-top: 0;}",
         ".grid {column-gap: 40px; row-gap: 40px;}",
