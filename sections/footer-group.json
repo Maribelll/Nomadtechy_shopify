@@ -22,14 +22,14 @@
         "9ab7cf99-ce2a-4527-849f-2d8c17d3c999": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "HELP",
+            "menu": "footer2"
           }
         },
         "92b3c3e8-fe43-4711-8a4b-45c746dda776": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "INFO",
             "menu": "footer"
           }
         }
