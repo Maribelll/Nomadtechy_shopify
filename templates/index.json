@@ -216,7 +216,7 @@
         ".multicolumn-card {width: 413px;}",
         ".multicolumn-card-spacing {padding-top: 0;}",
         ".grid {column-gap: 40px; row-gap: 40px;}",
-        ".multicolumn {width:1300px; padding-right: 10px; padding-left: 10px;}"
+        ".multicolumn {padding-right: 10px; padding-left: 10px;}"
       ],
       "settings": {
         "title": "Shop All",
