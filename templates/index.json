@@ -254,6 +254,7 @@
         ".multicolumn-card-spacing {padding-top: 0;}",
         ".grid {column-gap: 40px; row-gap: 40px;}",
         "li {max-width: 413px;}",
+        ".multicolumn-card__info{padding-left:0;}",
         "@media screen and (max-width: 465px) {.multicolumn-card {width: 325px; }}"
       ],
       "settings": {
