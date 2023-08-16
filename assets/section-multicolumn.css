@@ -44,7 +44,7 @@
     border: none;
 }
 .multicolumn-card-spacing {
-    padding-top: none;
+    padding-top: 0;
 }
 
 .multicolumn-card__info{
