@@ -228,6 +228,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "2db73c91-b420-491d-9c1f-566cb2fb0a44": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2_5.png",
+            "title": "Column",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -235,7 +245,8 @@
         "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-2",
         "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3",
         "baaff3fc-92d1-4e23-bdc0-b51bfed050c9",
-        "8cd2b66a-ca38-4d66-9f35-9b072d90220f"
+        "8cd2b66a-ca38-4d66-9f35-9b072d90220f",
+        "2db73c91-b420-491d-9c1f-566cb2fb0a44"
       ],
       "custom_css": [
         ".multicolumn-card {width: 413px;}",
