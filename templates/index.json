@@ -254,7 +254,7 @@
         ".multicolumn-card-spacing {padding-top: 0;}",
         ".grid {column-gap: 40px; row-gap: 40px;}",
         "li {max-width: 413px;}",
-        "@media screen and (max-width: 1300px) {.multicolumn-card-spacing {padding-right: 10px; padding-left: 10px; }}"
+        "@media screen and (max-width: 1300px) {.multicolumn-card-spacing {}}"
       ],
       "settings": {
         "title": "Shop All",
