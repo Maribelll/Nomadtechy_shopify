@@ -40,6 +40,9 @@
         "9ab7cf99-ce2a-4527-849f-2d8c17d3c999",
         "92b3c3e8-fe43-4711-8a4b-45c746dda776"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "background-2",
         "newsletter_enable": false,
