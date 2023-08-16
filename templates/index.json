@@ -129,7 +129,7 @@
         "1d333136-520f-43b0-a42c-488d2ca3210f"
       ],
       "custom_css": [
-
+        ".multicolumn-card {border-color: #121621;}"
       ],
       "settings": {
         "title": "",
@@ -208,19 +208,41 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "baaff3fc-92d1-4e23-bdc0-b51bfed050c9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2_3.png",
+            "title": "Column",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8cd2b66a-ca38-4d66-9f35-9b072d90220f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2_4.png",
+            "title": "Column",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-1",
         "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-2",
-        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3"
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3",
+        "baaff3fc-92d1-4e23-bdc0-b51bfed050c9",
+        "8cd2b66a-ca38-4d66-9f35-9b072d90220f"
       ],
       "custom_css": [
         ".multicolumn-card {width: 413px;}",
         ".multicolumn-card-spacing {padding-top: 0;}",
         ".grid {column-gap: 40px; row-gap: 40px;}",
         "li {width: 413px;}",
-        "@media screen and (max-width: 1300px) {.multicolumn-card-spacing {padding-right: 10px; padding-left:10px}}"
+        "@media screen and (max-width: 1300px) {.multicolumn-card-spacing {padding-right: 10px; padding-left: 10px; }}"
       ],
       "settings": {
         "title": "Shop All",
