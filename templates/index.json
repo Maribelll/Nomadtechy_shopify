@@ -214,7 +214,7 @@
       ],
       "custom_css": [
         ".multicolumn-card-spacing {padding-top: 0;}",
-        ".grid {column-gap:10px; row-gap: 55px;}"
+        ".grid {column-gap: 5px; row-gap: 40px;}"
       ],
       "settings": {
         "title": "Shop All",
