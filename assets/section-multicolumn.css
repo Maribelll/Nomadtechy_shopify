@@ -143,15 +143,15 @@
 }
 
 .multicolumn-card__info {
-  h2{
-    font-size:45px!important;
   
   padding: 2.5rem;
     background: transparent;
   position:absolute;
   top:45%;
   font-size:30px;
-}
+h2{
+    font-size:45px!important;
+  }
 }
 
 .background-none .multicolumn-card__info {
