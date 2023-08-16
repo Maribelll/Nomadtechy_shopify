@@ -129,7 +129,8 @@
         "1d333136-520f-43b0-a42c-488d2ca3210f"
       ],
       "custom_css": [
-        ".multicolumn-card {border-color: #121621;}"
+        ".multicolumn-card {border-color: #121621;}",
+        ".multicolumn-card__info {padding: 2.5rem; background: transparent; position:absolute; top:45%; font-size:30px;}"
       ],
       "settings": {
         "title": "",
