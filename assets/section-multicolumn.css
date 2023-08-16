@@ -192,8 +192,7 @@
     .multicolumn-list:not(.slider)
     .center
     .multicolumn-card__info {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+ 
     position: absolute;
     top: 35%;
     font-size: 30px;
@@ -206,7 +205,6 @@
 .multicolumn-card {
   position: relative;
   box-sizing: border-box;
- 
 }
 
 .multicolumn-card > .multicolumn-card__image-wrapper--full-width:not(.multicolumn-card-spacing) {
