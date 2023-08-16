@@ -43,6 +43,9 @@
    
     border: none;
 }
+.multicolumn-card-spacing {
+    padding-top: none;
+}
 
 .multicolumn-card__info{
   background-color:#121621;
