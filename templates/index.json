@@ -96,7 +96,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_2.png",
             "title": "",
-            "text": "",
+            "text": "<p>Rural Areas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -106,7 +106,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_3.png",
             "title": "",
-            "text": "",
+            "text": "<p>Travel<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -116,7 +116,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-07-03_at_8.24_4.png",
             "title": "",
-            "text": "",
+            "text": "<p>Emergencies<\/p>",
             "link_label": "",
             "link": ""
           }
