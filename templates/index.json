@@ -213,7 +213,7 @@
         "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3"
       ],
       "custom_css": [
-        ".multicolumn-card-spacing {padding-top: 0; padding-right:10px;}"
+        ".multicolumn-card-spacing {padding-top: 0;}"
       ],
       "settings": {
         "title": "Shop All",
