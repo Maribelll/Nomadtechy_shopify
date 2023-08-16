@@ -5,7 +5,28 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "4524a749-1e7e-4403-8caa-a85394c5f9ab": {
+          "type": "text",
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
         "aabfc33e-1974-4f4e-a6b5-89ea4a074431": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "9ab7cf99-ce2a-4527-849f-2d8c17d3c999": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "92b3c3e8-fe43-4711-8a4b-45c746dda776": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
@@ -14,7 +35,10 @@
         }
       },
       "block_order": [
-        "aabfc33e-1974-4f4e-a6b5-89ea4a074431"
+        "4524a749-1e7e-4403-8caa-a85394c5f9ab",
+        "aabfc33e-1974-4f4e-a6b5-89ea4a074431",
+        "9ab7cf99-ce2a-4527-849f-2d8c17d3c999",
+        "92b3c3e8-fe43-4711-8a4b-45c746dda776"
       ],
       "settings": {
         "color_scheme": "background-2",
