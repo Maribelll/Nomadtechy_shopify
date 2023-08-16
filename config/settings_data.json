@@ -2,7 +2,7 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/Layer_1.svg",
     "logo_width": 90,
-    "colors_solid_button_labels": "#ffffff",
+    "colors_solid_button_labels": "#121621",
     "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
     "gradient_accent_1": "",
     "colors_accent_2": "#ffffff",

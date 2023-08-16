@@ -172,12 +172,69 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "e9581039-854d-4a39-8f6b-debc10979d15": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+            "title": "Long Wall Mount",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2_1.png",
+            "title": "Long Wall Mount",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_2_2.png",
+            "title": "Long Wall Mount",
+            "text": "<p>$88<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-1",
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-2",
+        "template--18824843264286__e9581039-854d-4a39-8f6b-debc10979d15-column-3"
+      ],
+      "settings": {
+        "title": "Shop All",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "07c34c1c-48c5-40aa-b921-29ee8acee8a9",
     "d7434610-17d8-42d7-a403-66e9b1cc4a9c",
-    "featured_collection"
+    "featured_collection",
+    "e9581039-854d-4a39-8f6b-debc10979d15"
   ]
 }
