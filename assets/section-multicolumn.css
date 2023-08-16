@@ -39,6 +39,11 @@
 .multicolumn .button {
   margin-top: 1.5rem;
 }
+.multicolumn.background-primary .multicolumn-card {
+   
+    border: none;
+}
+
 .multicolumn-card__info{
   background-color:#121621;
   border: none;
