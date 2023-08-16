@@ -199,6 +199,9 @@
     font-size: 30px;
     margin-left: 29px;
     color: white;
+    h2{
+      font-size: 45px;
+    }
   }
 }
 
