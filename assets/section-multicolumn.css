@@ -184,6 +184,11 @@
   .background-none .multicolumn-card__image-wrapper {
     margin-left: 1.5rem;
     margin-right: 1.5rem;
+    position: absolute;
+    top: 35%;
+    font-size: 30px;
+    margin-left: 29px;
+    color: white;
   }
 
   .background-none .multicolumn-list .multicolumn-card__info,
