@@ -199,17 +199,16 @@
     font-size: 30px;
     margin-left: 29px;
     color: white;
-    .rte{
-    h2{
-      font-size: 45px;
-    }
-    }
+   
   }
 }
 
 .multicolumn-card {
   position: relative;
   box-sizing: border-box;
+   h2{
+      font-size: 45px;
+    }
 }
 
 .multicolumn-card > .multicolumn-card__image-wrapper--full-width:not(.multicolumn-card-spacing) {
